@@ -15,7 +15,7 @@ Simulating mobile robot navigation through a cave environment with ROS and Pytho
 - Weed Dectection Robot in ROS2
 Simulating an autonomous Weed Detection robot in a farm environment with ROS2 and Gazebo. Developed a 3D farm environment in Gazebo and implemented both AMCL navigation and SLAM with ROS2 toolboxes to determine which method was best suited to the problem.
 
-## Personal Projects
+# Personal Projects
 - Integrating a Gesture Control Sensor with Blender
 Project for personal development. Integrated a simple gesture sensor circuit with the Blender Python API through Arduino to control the movement of a 3D model.
 
